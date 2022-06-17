@@ -3,9 +3,8 @@
 Olá, tudo bem com você? Eu sou o João!! Sou estudante de programação e estou no meu primeiro ano de técnico.
 Você pode ver por aí alguns repositórios meus como estudos direcionados a algumas linguagens de programação.
 
-
-Objetivo é absorver o máximo de conhecimento sobre vários assuntos envolvendo linguagem de programação e tecnologia, da área que
-eu amo, que é a de desenvolvimento de software.
+Meu objetivo com estes repositórios é absorver o máximo de conhecimento sobre vários assuntos envolvendo linguagem de programação e tecnologia, da área que
+eu amo, que é a de desenvolvimento de software. Além disso, poder ajudar quem está começando junto comigo!! 
 
 Para saber mais sobre mim, visite:
 
