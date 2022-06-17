@@ -1,10 +1,10 @@
 # Exercises-List-CollectionsDio
 
 Olá, tudo bem com você? Eu sou o João!! Sou estudante de programação e estou no meu primeiro ano de técnico.
-Você pode ver por aí alguns repositórios meus como estudos direcionados a algumas linguagens de programação.
 
-Meu objetivo com estes repositórios é absorver o máximo de conhecimento sobre vários assuntos envolvendo linguagem de programação e tecnologia, da área que
-eu amo, que é a de desenvolvimento de software. Além disso, poder ajudar quem está começando junto comigo!! 
+Você pode ver por aí alguns repositórios meus como estudos direcionados a algumas linguagens de programação e que bom que você encontrou este. 👏👏👏
+
+Meu objetivo com estes repositórios é absorver o máximo de conhecimento sobre vários assuntos envolvendo linguagem de programação e tecnologia, da área que eu amo, que é a de desenvolvimento de software. Além disso, poder ajudar quem está começando junto comigo!! 
 
 Para saber mais sobre mim, visite:
 
@@ -15,8 +15,7 @@ Para saber mais sobre mim, visite:
 
 # O que o projeto faz
 
-Este diretório está sendo utilizado para armazenar os  meus exercícios de códigos passados nos cursos da Dio,
-sobre Collections mas especialmente sobre List(ArrayList e LinkedList). 
+Este diretório está sendo utilizado para armazenar os  meus exercícios de códigos passados nos cursos da Dio,sobre Collections mas especialmente sobre List(ArrayList e LinkedList) em linguagem Java. 
 
 > **Vale ressaltar que:**
 
@@ -30,13 +29,21 @@ A fonte destes exercícios:
 
 [Exercícios Python Brasil](https://wiki.python.org.br/ExerciciosListas)
 
+# Quais ferramentas utilizei neste repositorio?
+
+Este projeto foi especialmente feito com as seguintes ferramentas:
+
++ Linguagem Java (jdk 11- zulu)
+                                    
++ Intellij (Interface de Desenvolvimento- IDE)
+
+ ![INTELLIJ](https://financesonline.com/uploads/2019/08/IntelliJ-Idea-logo1.png)  ![JAVA](https://www.codeproject.com/KB/java/Graphic_Context/300px-Java_logo_svg.png)
 
 
 
 # Porque o projeto é útil?
 
-Como os exercicios estão me ajudando a entender sobre o assunto que estou estudando, este repositório pode ajudar
-outras pessoas iniciantes a praticar em exercícios da Python Brasil e tirar algumas dúvidas, a partir da minha resolução.
+Como os exercicios estão me ajudando a entender sobre o assunto que estou estudando, este repositório pode ajudaroutras pessoas iniciantes a praticar em exercícios da Python Brasil e tirar algumas dúvidas, a partir da minha resolução.
 
 *OBS: este não é o único jeito de fazer os exercícios.
 
