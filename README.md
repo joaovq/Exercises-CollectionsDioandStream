@@ -10,6 +10,7 @@ eu amo, que é a de desenvolvimento de software.
 Para saber mais sobre mim, visite:
 
 [Linkedin do João](https://www.linkedin.com/in/joaovitorqueiroz/)
+
 [Git hub do João](https://github.com/joaovq)
 
 
