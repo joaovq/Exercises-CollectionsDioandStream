@@ -1,4 +1,4 @@
-package course.dio.Lists.Arrays.Set;
+package course.dio.Lists.Intefaces.Set;
 
 import java.util.*;
 

@@ -1,7 +1,6 @@
-package course.dio.Lists.Arrays;
+package course.dio.Lists.Intefaces.Arrays;
 
 import java.util.*;
-import java.util.LinkedList;
 
 /*Dada uma lista com 7 notas de um aluno {7.0,8.6,9.0,4.5,6.7,3.4,7.8}, faça*/
 public class ExemploList {

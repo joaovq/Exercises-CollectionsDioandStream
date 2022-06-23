@@ -1,4 +1,4 @@
-package course.dio.Lists.Arrays;
+package course.dio.Lists.Intefaces.Arrays;
 
 import java.util.LinkedList;
 import java.util.List;
