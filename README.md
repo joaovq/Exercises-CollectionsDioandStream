@@ -1,4 +1,4 @@
-# Exercises-List-CollectionsDio
+# Exercises--CollectionsDioandStream
 
 Olá, tudo bem com você? Eu sou o João! Sou estudante de programação e estou no meu primeiro ano de técnico.
 
@@ -15,7 +15,7 @@ O meu objetivo com estes repositórios é absorver o máximo de conhecimento sob
 
 # O que o projeto faz
 
-Este diretório é utilizado para armazenar os meus exercícios de códigos passados nos cursos da Dio, sobre Collections, mas especialmente sobre List(ArrayList e LinkedList) em linguagem Java. 
+Este diretório é utilizado para armazenar os meus exercícios de códigos passados nos cursos da Dio, sobre Collections (Lists, Map e Set) e Stream API em linguagem Java. 
 
 ###  **Vale ressaltar que:** 
 
@@ -25,7 +25,9 @@ List é uma coleção ordenada de elementos. Nessa coleção existem duas classe
 
 [ArrayList e LinkedList](https://www.devmedia.com.br/java-collections-como-utilizar-collections/18450)
 
-A fonte destes exercícios:
+Stream API é uma nova opção para a manipulação de coleções em Java seguindo os princípios da programação funcional.
+
+A fonte dos exercícios sobre listas:
 
 #### [Exercícios Python Brasil](https://wiki.python.org.br/ExerciciosListas)
 
