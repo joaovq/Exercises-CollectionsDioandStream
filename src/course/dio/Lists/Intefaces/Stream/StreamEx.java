@@ -11,6 +11,7 @@ public class StreamEx {
 
         numerosAleatorios.forEach(System.out::println);
 
+
         System.out.println("Pegue os 5 primeiros números e coloque dentro de um Set:");
         numerosAleatorios.stream()
                 .limit(5)
@@ -32,32 +33,29 @@ public class StreamEx {
 //                .forEach(System.out::println); //Para mostrar os items da lista
 
 
-//        System.out.println("Pegue os números pares e maiores que 2 e coloque em uma lista:");
-//        numerosAleatorios.stream()
-//                .map(Integer::parseInt)
-//                .filter(i -> i % 2 == 0 && i > 2)
-//                .collect(Collectors.toList())
-//                .forEach(System.out::println);
-//        List<Integer> listParesMaioresQue2 = numerosAleatorios.stream()
-//                .map(Integer::parseInt)
-//                .filter(i -> (i % 2 == 0 && i > 2))
-//                .collect(Collectors.toList());
-//        System.out.println(listParesMaioresQue2);
+        System.out.println("Pegue os números pares e maiores que 2 e coloque em uma lista:");
+        numerosAleatorios.stream()
+                .map(Integer::parseInt)
+                .filter(i -> i % 2 == 0 && i > 2)
+                .collect(Collectors.toList())
+                .forEach(System.out::println);
+//        ou...
+        List<Integer> listParesMaioresQue2 = numerosAleatorios.stream()
+                .map(Integer::parseInt)
+                .filter(i -> (i % 2 == 0 && i > 2))
+                .collect(Collectors.toList());
+        System.out.println(listParesMaioresQue2);
+//
+        System.out.println("Mostre a média dos números: ");
+        numerosAleatorios.stream()
+                .mapToInt(Integer::parseInt)
+                .average()
+                .ifPresent(System.out::println);
 
-//        System.out.println("Mostre a média dos números: ");
-//        numerosAleatorios1.stream()
-//                .average()
-//                .ifPresent(System.out::println);
-//        numerosAleatorios.stream()
-//                .mapToInt(Integer::parseInt)
-//                .average()
-//                .ifPresent(System.out::println);
+        System.out.println("Remova os valores ímpares: ");
 
-//        System.out.println("Remova os valores ímpares: ");
-//        numerosAleatorios1.removeIf(integer -> integer % 2 != 0);
-//        System.out.println(numerosAleatorios1);
-//        numerosAleatoriosInteger.removeIf(i -> (i % 2 != 0));
-//        System.out.println(numerosAleatoriosInteger);
+        numerosAleatoriosInteger.removeIf(i -> (i % 2 != 0));
+        System.out.println(numerosAleatoriosInteger);
 
 //        Para você
 
